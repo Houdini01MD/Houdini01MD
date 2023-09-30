@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Houdini</h1>
 <h3 align="center">A passionate developer from Morroco</h3>
 <img align="right" alt="Coding" width="400" src="https://i2.wp.com/www.generouswork.com/wp-content/uploads/2018/01/LingoAsset.gif">
