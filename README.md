@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@houdini01attr" target="blank"><img src="https://img.shields.io/twitter/follow/@houdini01attr?logo=twitter&style=for-the-badge" alt="@houdini01attr" /></a> </p>
 
-- 🌱 I’m currently learning **ALX_africa**
+- 🌱 I’m currently senior **Front-end** Developer
 
-- 💬 Ask me about **C, Dart, Flutter**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Saas, Tailwind**
 
 - ⚡ Fun fact **“When I wrote this code, only God and I understood what I did. Now only God knows.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@houdini01attr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@houdini01attr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayoub-el-attar-27143b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@houdini01attr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
